@@ -11,7 +11,9 @@ Here's a simple example of a linear programming problem.
 Maximize 3x + 4y subject to the following constraints:
 
 x + 2y	≤	14
+
 3x – y	≥	0
+
 x – y	≤	2
 
 Both the objective function, 3x + 4y, and the constraints are given by linear expressions, which makes this a linear problem.
